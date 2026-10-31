@@ -5,8 +5,8 @@ program: `python main.py`
 """
 
 import ui
-
-
+#good import
+var = x
 def main():
     print("Welcome to the Scientific Calculator!")
 
